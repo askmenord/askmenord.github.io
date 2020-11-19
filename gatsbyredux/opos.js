@@ -1,3 +1,0 @@
-function opos() {
-	InitDeviceManager("isTpos");
-};
